@@ -1,0 +1,10 @@
+numpy
+pandas
+xarray
+xarray-spatial
+rioxarray
+odc-stac
+pystac-client
+planetary-computer
+dask[distributed]
+bmi-topography
